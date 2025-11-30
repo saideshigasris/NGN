@@ -1,4 +1,5 @@
 Autoencoder Replacing the OFDM Modulator and Demodulator
+
 A deep learning approach to creating an end-to-end communication system that replaces the traditional Orthogonal Frequency-Division Multiplexing (OFDM) modulation and demodulation blocks, with a focus on Bit Error Rate (BER) performance under AWGN channel conditions111.
 
  Aim & Overview
